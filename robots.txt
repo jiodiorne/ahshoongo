@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eimahvungo.nickmcguire.com/sitemap.xml
